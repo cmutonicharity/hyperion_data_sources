@@ -1,0 +1,38 @@
+[
+  {
+    "title": "The Choice",
+    "author": "Edith Eger",
+    "Year_when_published": "",
+    "genre": "Non-Fiction"
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "Year_when_published": "1988",
+    "genre": "Fiction"
+  },
+  {
+    "title": "Enlightenment Now",
+    "author": "Steven Pinker",
+    "Year_when_published": "2019",
+    "genre": "Non-Fiction"
+  },
+  {
+    "title": "Mindset",
+    "author": "Dr Carol S. Dweck",
+    "Year_when_published": "2006",
+    "genre": "Non-fiction"
+  },
+  {
+    "title": "Principles",
+    "author": "Ray Dalio",
+    "Year_when_published": "2017",
+    "genre": "Non-fiction"
+  },
+  {
+    "title": "Shoe Dog",
+    "author": "Phill Knight",
+    "Year_when_published": "2016",
+    "genre": " Non-fiction"
+  }
+]
