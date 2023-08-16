@@ -9,6 +9,11 @@ This project uses Python to execute the scripts. To use these scripts first ensu
 computer. You can check this by running `python -v`. For further information on installing Python see: [python.org](https://www.python.org)
 ## Running the scripts
 Once you have python installed, you can run these scripts on the command line with: `python ./taskXML.py`, or `xmlExample.py`.
+### taskXML.py output
+![Screenshot 2023-08-16 at 14 44 00](https://github.com/cmutonicharity/hyperion_data_sources/assets/133023982/17b0d830-a353-418e-b224-6d2690b008f6)
+### xmlExample.py output
+![Screenshot 2023-08-16 at 14 46 08](https://github.com/cmutonicharity/hyperion_data_sources/assets/133023982/d5be92df-4339-4594-8a1a-79b52111fc92)
+
 ## Task 1- In this project we used JSON to represent structured data. JSON stands for JavaScript.
 * It is a syntax used for storing and exchanging unstructured data. The syntax for JSON is similar to Pyhon dictionary.
 * Task 1 project involved populating file with data about books. 6 books were chosen and four attributes were chosen (author,date published,name of the book, genre )
