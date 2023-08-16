@@ -1,9 +1,9 @@
 # Data Source
 ## Table of contents
-1. Installation
-2. Running the scripts
-3. Task 1 - JSON
-4. Task 2 - XML
+1. [Installation](#installation)
+2. [Running the scripts](#running-the-scripts)
+3. [Task 1 - JSON](#task-1--in-this-project-we-used-json-to-represent-structured-data-json-stands-for-javascript)
+4. [Task 2 - XML](#task-2--is-about-parsing-an-xml-file-using-python)
 ## Installation
 This project uses Python to execute the scripts. To use these scripts first ensure that you have python installed on your
 computer. You can check this by running `python -v`. For further information on installing Python see: [python.org](https://www.python.org)
